@@ -22,10 +22,10 @@
 ### Data Structure Assignments
 
 - [ArrayLists](/cisc-3130.md/)
-- [Stacks and Queues](http://example.com/)
-- [Binary Search Trees](http://example.com/)
-- [HashMaps](http://example.com/)
-- [Recursion](https://estherfarkas.github.io/)
+- [Stacks and Queues](cisc-3130-assignment-2.md/)
+- [Binary Search Trees](cisc-3130-assignment-3.md/)
+- [HashMaps](cisc-3130-assignment-4.md/)
+- [Portfolio a.k.a Recursion](https://estherfarkas.github.io/)
 
 ---
 
