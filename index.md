@@ -25,7 +25,7 @@
 - [Stacks and Queues](https://github.com/estherfarkas/CISC-3130-Assignment-2)
 - [Binary Search Trees](https://github.com/estherfarkas/CISC-3130-Assignment-3)
 - [HashMaps](https://github.com/estherfarkas/CISC-3130-Assignment-4)
-- [Portfolio a.k.a Recursion](https://estherfarkas.github.io/)
+- [Portfolio a.k.a Recursion](https://estherfarkas.github.io)
 ---
 
 
