@@ -21,7 +21,7 @@
 
 ### Data Structure Assignments
 
-- [ArrayLists](http://example.com/)
+- [ArrayLists](/cisc-3130.md/)
 - [Stacks and Queues](http://example.com/)
 - [Binary Search Trees](http://example.com/)
 - [HashMaps](http://example.com/)
