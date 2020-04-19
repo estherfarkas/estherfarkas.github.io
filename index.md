@@ -16,6 +16,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### Basic Java Assignments
+ - [Homework 7: Advanced ATM](http://acc6.its.brooklyn.cuny.edu/~efarkas/)
 
 ### Data Structure Assignments
 
