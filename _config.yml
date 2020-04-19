@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Macaulay Honors College   
   <br><br>
   Computer Science Major   
-<br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/esther-farkas-b89325186/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
