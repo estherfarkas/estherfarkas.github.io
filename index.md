@@ -2,9 +2,9 @@
 
 ---
 
-### Assignment 
+### Basic Java Assignments 
 
-[Project 1 Title](/sample_page)
+[Simple ATM](/http://acc6.its.brooklyn.cuny.edu/~efarkas/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,13 +17,13 @@
 
 ---
 
-### Projects
+### Data Structure Assignments
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [ArrayLists](http://example.com/)
+- [Stacks and Queues](http://example.com/)
+- [Binary Search Trees](http://example.com/)
+- [HashMaps](http://example.com/)
+- [Recursion](https://estherfarkas.github.io/)
 
 ---
 
